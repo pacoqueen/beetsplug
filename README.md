@@ -14,4 +14,6 @@ not already.
 
 ![Screenshot](screenshot.png)
 
+> Disclaimer: Only tested in `copy: no` mode
+
 (ↄ) 2018 - [qinn.es](http://qinn.es)
